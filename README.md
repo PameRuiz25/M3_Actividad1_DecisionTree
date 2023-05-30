@@ -18,6 +18,6 @@ Instrucciones
 
 8.- Crear un Pull request con origen el nuevo branch hacia main
 
-9.- Subir la url del Pull request: https://github.com/PameRuiz25/M3_Actividad1_DecisionTree/pull/1
+## 9.- Subir la url del Pull request: https://github.com/PameRuiz25/M3_Actividad1_DecisionTree/pull/1
 
 10.- Compartir el proyecto a mi cuenta felipecastillotecmx
